@@ -1,0 +1,16 @@
+#root{
+    height: 100vh;
+    width: 100vw;
+    
+}
+#main{
+    display: grid;
+    background-color: blue;
+    height: 500px;
+    width: 960px;
+}
+.gridDiv{
+    margin: 0px 0px;
+    border: ridge;
+    display: inline;
+}
